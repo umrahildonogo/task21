@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\test6\test6\obj\Debug\net6.0\test6.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\test6\test6\obj\Debug\net6.0\test6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\test6\test6\obj\Debug\net6.0\test6.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\test6\test6\obj\Debug\net6.0\test6.AssemblyInfo.cs
+C:\Users\PC\Desktop\test6\test6\obj\Debug\net6.0\test6.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\test6\test6\bin\Debug\net6.0\test6.exe
+C:\Users\PC\Desktop\test6\test6\bin\Debug\net6.0\test6.deps.json
+C:\Users\PC\Desktop\test6\test6\bin\Debug\net6.0\test6.runtimeconfig.json
+C:\Users\PC\Desktop\test6\test6\bin\Debug\net6.0\test6.dll
+C:\Users\PC\Desktop\test6\test6\bin\Debug\net6.0\test6.pdb
+C:\Users\PC\Desktop\test6\test6\obj\Debug\net6.0\test6.dll
+C:\Users\PC\Desktop\test6\test6\obj\Debug\net6.0\refint\test6.dll
+C:\Users\PC\Desktop\test6\test6\obj\Debug\net6.0\test6.pdb
+C:\Users\PC\Desktop\test6\test6\obj\Debug\net6.0\test6.genruntimeconfig.cache
+C:\Users\PC\Desktop\test6\test6\obj\Debug\net6.0\ref\test6.dll
